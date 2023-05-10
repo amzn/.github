@@ -2,7 +2,7 @@
 
 ## Overview
 
-This document explains who maintainers are, what they do, and how they should be doing it. If you're interested in contributing, see [CONTRIBUTING](https://github.com/opensearch-project/.github/blob/main/CONTRIBUTING.md).
+This document explains who maintainers are, what they do, and how they should be doing it. If you're interested in contributing, see [CONTRIBUTING](https://github.com/cedar-policy/.github/blob/master/CONTRIBUTING.md).
 
 ## Current Maintainers
 
