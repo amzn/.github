@@ -1,6 +1,6 @@
 # README.md
 
-![Cedar Green Logo](cedar_1_green.png "Cedar Logo")
+![Cedar Green Logo](profile/cedar_1_green.png "Cedar Logo")
 
 ## Welcome!
 
