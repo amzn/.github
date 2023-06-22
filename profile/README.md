@@ -37,7 +37,7 @@ The cedar-spec repository houses the formal Dafny specification for the Cedar la
 
 * cedar-awesome (https://github.com/cedar-policy/cedar-awesome)
 
-The cedar-spec repository houses a curated list of awesome Cedar related tools and articles.
+The cedar-awesome repository houses a curated list of awesome Cedar related tools and articles.
 
 ## Code of Conduct
 
