@@ -39,6 +39,11 @@ The cedar-spec repository houses the formal Dafny specification for the Cedar la
 
 The cedar-awesome repository houses a curated list of awesome Cedar related tools and articles.
 
+* https://github.com/cedar-policy/rfcs
+
+The rfcs repository houses the Request For Comments (RFC) for Cedar.
+
+
 ## Code of Conduct
 
 This project has adopted the [Amazon Open Source Code of Conduct](../CODE_OF_CONDUCT.md). For more information see the [Code of Conduct FAQ](https://aws.github.io/code-of-conduct-faq), or contact [opensource-codeofconduct@amazon.com](mailto:opensource-codeofconduct@amazon.com) with any additional questions or comments.
