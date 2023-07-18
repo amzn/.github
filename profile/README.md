@@ -39,7 +39,7 @@ The cedar-spec repository houses the formal Dafny specification for the Cedar la
 
 The cedar-awesome repository houses a curated list of awesome Cedar related tools and articles.
 
-* https://github.com/cedar-policy/rfcs
+* rfcs (https://github.com/cedar-policy/rfcs)
 
 The rfcs repository houses the Request For Comments (RFC) for Cedar.
 
