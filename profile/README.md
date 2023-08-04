@@ -43,6 +43,9 @@ The cedar-awesome repository houses a curated list of awesome Cedar related tool
 
 The rfcs repository houses the Request For Comments (RFC) for Cedar.
 
+* vscode-cedar (https://github.com/cedar-policy/vscode-cedar)
+
+The vscode-cedar repository houses the Cedar policy language extension for Visual Studio Code.
 
 ## Code of Conduct
 
