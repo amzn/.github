@@ -15,37 +15,22 @@
 
 ## Repositories
 
-* cedar (https://github.com/cedar-policy/cedar)
-
-The cedar repository houses the Cedar SDK including the authorization engine, validator, policy formatter, and CLI.
-
-* cedar-docs (https://github.com/cedar-policy/cedar-docs)
-
-The cedar-docs repository houses documentation for all cedar projects.
-
-* cedar-examples (https://github.com/cedar-policy/cedar-examples)
-
-The cedar-examples repository houses example applications using the Cedar language and SDK
-
-* cedar-java (https://github.com/cedar-policy/cedar-java)
-
-The cedar-java repository houses the Java language bindings for Cedar.
-
-* cedar-spec (https://github.com/cedar-policy/cedar-spec)
-
-The cedar-spec repository houses the formal Dafny specification for the Cedar language as well as the differential testing/property-based testing framework.
-
-* cedar-awesome (https://github.com/cedar-policy/cedar-awesome)
-
-The cedar-awesome repository houses a curated list of awesome Cedar related tools and articles.
-
-* rfcs (https://github.com/cedar-policy/rfcs)
-
-The rfcs repository houses the Request For Comments (RFC) for Cedar.
-
-* vscode-cedar (https://github.com/cedar-policy/vscode-cedar)
-
-The vscode-cedar repository houses the Cedar policy language extension for Visual Studio Code.
+* **[cedar](https://github.com/cedar-policy/cedar)**  
+Cedar SDK including the authorization engine, validator, policy formatter, and CLI.
+* **[cedar-docs](https://github.com/cedar-policy/cedar-docs)**  
+Houses documentation for all cedar projects.
+* **[cedar-examples](https://github.com/cedar-policy/cedar-examples)**  
+Example applications using the Cedar language and SDK
+* **[cedar-java](https://github.com/cedar-policy/cedar-java)**  
+Java language bindings for Cedar.
+* **[cedar-spec](https://github.com/cedar-policy/cedar-spec)**  
+Formal Dafny specification for the Cedar language as well as the differential testing/property-based testing framework.
+* **[cedar-awesome](https://github.com/cedar-policy/cedar-awesome)**  
+Curated list of awesome Cedar related tools and articles.
+* **[rfcs](https://github.com/cedar-policy/rfcs)**  
+Request For Comments (RFC) for Cedar.
+* **[vscode-cedar](https://github.com/cedar-policy/vscode-cedar)**  
+Cedar policy language extension for Visual Studio Code.
 
 ## Code of Conduct
 
