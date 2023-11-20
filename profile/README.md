@@ -54,7 +54,7 @@ See [NOTICE](NOTICE) for details.
 
 ## Trademark
 
-Cedar is a registered trademark of Amazon Web Services. If publishing software using Cedar, you are not required to attribute. However, if you’d like to, we encourage you to use the language below.
+Cedar is a trademark of Amazon Web Services. If publishing software using Cedar, you are not required to attribute. However, if you’d like to, we encourage you to use the language below.
 
 
 |Do:	|Don't:	|
