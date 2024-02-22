@@ -24,7 +24,7 @@ Example applications using the Cedar language and SDK
 * **[cedar-java](https://github.com/cedar-policy/cedar-java)**  
 Java language bindings for Cedar.
 * **[cedar-spec](https://github.com/cedar-policy/cedar-spec)**  
-Formal Dafny specification for the Cedar language as well as the differential testing/property-based testing framework.
+Formal Lean specification for the Cedar language as well as the differential testing/property-based testing framework.
 * **[cedar-local-agent](https://github.com/cedar-policy/cedar-local-agent)**  
 Configurable cache for Cedar policies and entities.
 * **[cedar-awesome](https://github.com/cedar-policy/cedar-awesome)**  
