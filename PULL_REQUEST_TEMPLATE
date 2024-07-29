@@ -1,6 +1,18 @@
-*Issue #, if available:*
+**Feature:** [Name of the new feature]
+This PR implements [brief description of the feature
 
-*Description of changes:*
+or
 
+**Fix:** [Brief description of the bug]
+This PR addresses issue #[issue number]
+
+**Changes:**
+[List main changes made]
+[Mention any new dependencies or tools]
+
+**Testing:**
+[Describe how the change was tested]
+
+[Any additional notes or questions for reviewers]
 
 By submitting this pull request, I confirm that you can use, modify, copy, and redistribute this contribution, under the terms of your choice.
